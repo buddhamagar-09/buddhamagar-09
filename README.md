@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm a BCA Student
 
-<!--
-**buddhamagar-09/buddhamagar-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 BCA Student from Nepal 🇳🇵  
+- 💻 Passionate about Web Development and Software Engineering  
+- 🚀 Focused on building real-world web applications  
+- 🌱 Currently learning advanced Laravel, Python, and .NET
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- PHP  
+- Laravel  
+- MySQL  
+- JavaScript  
+- HTML  
+- CSS  
+- Python (Learning)  
+- Java (Basics)  
+- C# with .NET (Basics)
+
+---
+
+## 📌 Projects
+- 🛒 eCommerce Website using PHP & MySQL  
+- 🧑‍💼 Admin Dashboard System  
+- 🎨 UI/Frontend Design Projects  
+
+---
+
+## 📚 Currently Learning
+- Advanced Laravel Development  
+- Backend Development Concepts  
+- Data Structures & Algorithms  
+- System Design Basics  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/buddhamagar-09 
+- Email: magarbuddha431@gmail.com 
+
+---
+
+⭐ Always learning and improving every day!
