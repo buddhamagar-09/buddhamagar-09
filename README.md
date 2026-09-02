@@ -69,7 +69,7 @@ A full-stack travel and tourism web application that allows users to explore tra
 
 ---
 
-### 🏍️ MotoMods Nepal — Motorcycle Parts Platform
+###  MotoMods Nepal — Motorcycle Parts Platform
 
 An e-commerce platform designed for motorcycle spare parts and accessories, featuring product management and a user-friendly interface.
 
