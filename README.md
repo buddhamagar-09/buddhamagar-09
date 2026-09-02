@@ -10,20 +10,20 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate **Bachelor in Computer Applications (BCA) student** with a strong interest in web development and software engineering. I enjoy building practical applications, exploring modern technologies, and continuously improving my programming skills.
 
-* 🎓 Currently pursuing a **Bachelor in Computer Applications (BCA)**
-* 💻 Passionate about **Web Development and Software Engineering**
-* 🚀 Focused on building real-world, scalable web applications
-* 🎨 Interested in creating clean and user-friendly interfaces
-* 🌱 Currently expanding my knowledge in **Laravel, Python, .NET, and Mobile Development**
-* 🔭 Always exploring new technologies and improving my problem-solving skills
+* Currently pursuing a **Bachelor in Computer Applications (BCA)**
+* Passionate about **Web Development and Software Engineering**
+* Focused on building real-world, scalable web applications
+* Interested in creating clean and user-friendly interfaces
+* Currently expanding my knowledge in **Laravel, Python, .NET, and Mobile Development**
+* Always exploring new technologies and improving my problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 
@@ -57,9 +57,9 @@ I'm a passionate **Bachelor in Computer Applications (BCA) student** with a stro
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ✈️ TravelMate — Travel & Tourism Platform
+### TravelMate — Travel & Tourism Platform
 
 A full-stack travel and tourism web application that allows users to explore travel packages, make bookings, manage reservations, submit reviews, and process online payments.
 
@@ -79,7 +79,7 @@ An e-commerce platform designed for motorcycle spare parts and accessories, feat
 
 ---
 
-### 🧑‍💼 Admin Dashboard System
+### Admin Dashboard System
 
 A management dashboard designed for handling application data, users, and administrative operations.
 
@@ -89,21 +89,21 @@ A management dashboard designed for handling application data, users, and admini
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
-🌱 Advanced Laravel Development
-🐍 Python Programming
-⚙️ C# and .NET Development
-📱 Mobile Application Development
-🧠 Data Structures & Algorithms
-🏗️ Software Architecture & System Design Basics
-🔐 API Security & Authentication
+ Advanced Laravel Development
+ Python Programming
+ C# and .NET Development
+ Mobile Application Development
+ Data Structures & Algorithms
+ Software Architecture & System Design Basics
+ API Security & Authentication
 ```
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 * Full Stack Web Development
 * Backend Development
@@ -115,7 +115,7 @@ A management dashboard designed for handling application data, users, and admini
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhamagar-09&show_icons=true&hide_border=true&theme=transparent" height="170"/>
@@ -131,7 +131,7 @@ A management dashboard designed for handling application data, users, and admini
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -149,7 +149,7 @@ A management dashboard designed for handling application data, users, and admini
 
 <div align="center">
 
-### ⚡ "Always learning, building, and improving."
+### "Always learning, building, and improving."
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
