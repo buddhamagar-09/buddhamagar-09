@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Buddha Magar
 
-### BCA Student | Aspiring Full Stack Developer | Software Engineering Enthusiast
+### BCA Student | Software Developer | Software Engineering Enthusiast
 
 🇳🇵 Nepal
 
@@ -10,28 +10,43 @@
 
 ---
 
-##  About Me
+## About Me
 
-I'm a passionate **Bachelor in Computer Applications (BCA) student** with a strong interest in web development and software engineering. I enjoy building practical applications, exploring modern technologies, and continuously improving my programming skills.
+I'm a **Bachelor in Computer Applications (BCA) student** and aspiring **Software Developer** with a strong interest in software engineering, application development, and problem-solving.
+
+I enjoy building practical software, learning how different technologies work together, and continuously improving my programming and development skills.
 
 * Currently pursuing a **Bachelor in Computer Applications (BCA)**
-* Passionate about **Web Development and Software Engineering**
-* Focused on building real-world, scalable web applications
-* Interested in creating clean and user-friendly interfaces
-* Currently expanding my knowledge in **Laravel, Python, .NET, and Mobile Development**
-* Always exploring new technologies and improving my problem-solving skills
+* Interested in **Software Development and Software Engineering**
+* Enjoy building practical and real-world applications
+* Interested in **application architecture, backend systems, APIs, and databases**
+* Currently expanding my knowledge in **Laravel, Python, C#/.NET, Java, and Mobile Development**
+* Interested in writing clean, maintainable, and efficient code
+* Continuously learning new technologies and improving my problem-solving skills
 
 ---
 
 ## Tech Stack
 
-### Frontend Development
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,python,java,cs" />
+</p>
+
+### Software & Application Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,react,androidstudio" />
+</p>
+
+### Frontend Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### Backend Development
+### Backend & APIs
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,dotnet" />
@@ -41,12 +56,6 @@ I'm a passionate **Bachelor in Computer Applications (BCA) student** with a stro
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,python,java,cs" />
 </p>
 
 ### Tools & Technologies
@@ -59,9 +68,11 @@ I'm a passionate **Bachelor in Computer Applications (BCA) student** with a stro
 
 ## Featured Projects
 
-### TravelMate — Travel & Tourism Platform
+### TravelMate — Travel Management System
 
-A full-stack travel and tourism web application that allows users to explore travel packages, make bookings, manage reservations, submit reviews, and process online payments.
+A full-stack travel management application developed to handle travel packages, user accounts, bookings, reservations, reviews, and online payments.
+
+The project focuses on **application development, REST APIs, authentication, database management, and client-server communication**.
 
 **Technologies Used:**
 
@@ -69,9 +80,11 @@ A full-stack travel and tourism web application that allows users to explore tra
 
 ---
 
-###  MotoMods Nepal — Motorcycle Parts Platform
+### MotoMods Nepal — E-Commerce Application
 
-An e-commerce platform designed for motorcycle spare parts and accessories, featuring product management and a user-friendly interface.
+An e-commerce application for motorcycle spare parts and accessories, featuring product management, database integration, and a user-friendly interface.
+
+The project helped me practice **application logic, database operations, CRUD functionality, and user interface development**.
 
 **Technologies Used:**
 
@@ -81,7 +94,9 @@ An e-commerce platform designed for motorcycle spare parts and accessories, feat
 
 ### Admin Dashboard System
 
-A management dashboard designed for handling application data, users, and administrative operations.
+A management system designed for handling application data, users, and administrative operations.
+
+The project focuses on **backend development, database management, CRUD operations, authentication, and administrative workflows**.
 
 **Technologies Used:**
 
@@ -92,30 +107,39 @@ A management dashboard designed for handling application data, users, and admini
 ## Currently Learning
 
 ```text
- Advanced Laravel Development
- Python Programming
- C# and .NET Development
- Mobile Application Development
- Data Structures & Algorithms
- Software Architecture & System Design Basics
- API Security & Authentication
+Advanced Software Development
+Advanced Laravel Development
+Python Programming
+C# and .NET Development
+Java Programming
+Mobile Application Development
+Data Structures & Algorithms
+Software Architecture & Design Patterns
+Database Design
+API Development & Security
+Authentication & Authorization
 ```
 
 ---
 
 ## Areas of Interest
 
-* Full Stack Web Development
-* Backend Development
+* Software Development
 * Software Engineering
-* RESTful API Development
+* Application Development
+* Backend Development
+* API Development
 * Database Design
-* UI/UX Design
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Software Architecture
+* Authentication & Security
 * Mobile Application Development
+* UI/UX Design
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhamagar-09&show_icons=true&hide_border=true&theme=transparent" height="170"/>
@@ -131,7 +155,7 @@ A management dashboard designed for handling application data, users, and admini
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <p align="left">
 
