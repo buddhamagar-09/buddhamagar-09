@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Buddha Magar
+# Hi , I'm Buddha Magar
 
 ### BCA Student | Software Developer | Software Engineering Enthusiast
 
