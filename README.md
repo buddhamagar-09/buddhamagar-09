@@ -23,9 +23,13 @@ I'm a BCA student and aspiring software developer who enjoys building practical 
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,python,java,cs,laravel,dotnet,react,html,css,tailwind,mysql,git,github,vscode,figma,postman,androidstudio" />
-</p>
+**Languages:** PHP, JavaScript, Python, Java, C#
+
+**Frameworks & Tools:** Laravel, .NET, React, Android Studio, Tailwind CSS
+
+**Databases:** MySQL
+
+**Other:** Git, GitHub, VS Code, Figma, Postman
 
 ---
 
