@@ -14,10 +14,10 @@
 
 I'm a BCA student and aspiring software developer who enjoys building practical applications and learning how technology works. I'm passionate about clean code, problem-solving, and continuously improving my skills.
 
-- 🎓 Pursuing a Bachelor in Computer Applications (BCA)
-- 💻 Interested in software development, backend systems, and APIs
-- 🛠️ Currently learning Laravel, Python, C#/.NET, Java, and Mobile Development
-- 📚 Always learning new technologies and improving my problem-solving skills
+-  Pursuing a Bachelor in Computer Applications (BCA)
+-  Interested in software development, backend systems, and APIs
+-  Currently learning Laravel, Python, C#/.NET, Java, and Mobile Development
+-  Always learning new technologies and improving my problem-solving skills
 
 ---
 
