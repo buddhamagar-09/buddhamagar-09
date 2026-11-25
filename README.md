@@ -2,7 +2,7 @@
 
 # Hi, I'm Buddha Magar
 
-**BCA Student | Software Developer**
+**Software Developer**
 
 🇳🇵 Nepal
 
